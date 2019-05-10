@@ -1,6 +1,7 @@
 require "pry"
 def get_first_name_of_season_winner(data, season)
   data.each do |season, contestant| 
+    def first_name()
     if 
     end
   end
@@ -17,7 +18,7 @@ end
 def get_occupation(data, hometown)
   data.each do |season, array|
     array.each do 
-    return
+    return 
 end
 
 def get_average_age_for_season(data, season)
